@@ -124,4 +124,4 @@ https://docs.streamlit.io/develop/tutorials/chat-and-llm-apps/build-conversation
 
 https://github.com/AI-JAVA-GEEK/llama3-streamlit-chatbot
 
-![Chatbot Screenshot](images/chatbot.png)
+![Chatbot Screenshot](/docs/assets/images/2024-10-31-github-ai-models/chatbot.gif)
